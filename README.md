@@ -34,13 +34,13 @@ Contoh Response:
 [
  {
   "id": 1,
-  "nama": "Adam Wisnu",
-  "kelas": "TT-45-09"
+  "nama": "Yanto",
+  "kelas": "TT-40-01"
  },
  {
   "id": 2,
-  "nama": "Raihan Putra",
-  "kelas": "TT-45-11"
+  "nama": "Sugito",
+  "kelas": "TT-42-02"
  }
 ]
 ```
