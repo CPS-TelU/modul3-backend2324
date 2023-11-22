@@ -18,7 +18,7 @@ npm install
 
 1. Pastikan telah menginstal dependencies yang diperlukan dengan mengikuti langkah-langkah di atas.
 2. Buka terminal dan jalankan server dengan perintah berikut: `node app.js`
-3. Setelah server berjalan, buka browser dan kunjungi `http://localhost:3000/`. Anda akan melihat hasil kodingan yang dijalankan.
+3. Setelah server berjalan, buka browser dan kunjungi `http://localhost:3000/api`. Anda akan melihat hasil kodingan yang dijalankan.
 
 ## Dokumentasi API
 
