@@ -8,7 +8,7 @@ git clone https://github.com/CPS-TelU/modul3-backend2324.git
 
 ## Install Modul
 
-clone repository untuk bisa menggunakan projectnya.
+Install modul menggunakan Node Package Manager.
 
 ```bash
 npm install
